@@ -1,5 +1,5 @@
 # Getting Started with Terraform 
-Welcome to Terraform - Getting Started. This is my repository for undertaking the execrise for the [Pluralsight Course Terraform - Getting Started]. (https://app.pluralsight.com/library/courses/getting-started-terraform/table-of-contents) 
+Welcome to Terraform - Getting Started. This is my repository for undertaking the execrise for the [Pluralsight Course Terraform - Getting Started](https://app.pluralsight.com/library/courses/getting-started-terraform/table-of-contents).
 I have a few issues when using the repo created so,  I created this one for anyone that encounter the errors I had.
 The errors were: 
 
