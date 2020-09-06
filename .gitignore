@@ -1,0 +1,14 @@
+.terraform
+.tfstate
+.DS_Store
+.idea/
+*.plan
+tfvars/*.*
+*.tfplan
+*.tfstate.backup
+*.tfstate
+*.pem
+*.pub
+terraform_pluralsight_key
+*.terraform.tfstate.lock.info
+commands.txt
