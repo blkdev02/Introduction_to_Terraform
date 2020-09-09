@@ -28,7 +28,7 @@ terraform destroy
 ```
 Then you have to rename the main_a.tf to main_a.0.tf.rename
 Afterwards, change the name of main_b.0.tf.rename to  main_b.tf
-You will need to change the name in order for terraform plan to use thst file for the update. 
+You will need to change the name in order for terraform plan to use that file for the update. 
 
 then you run the commands to build the infrastructure:
 
